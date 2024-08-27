@@ -3,7 +3,7 @@ Hi 👋 I'm Dulshani Samindika
 =====================
 Web Dev / UI / UX / Digital Artist
 ----------------------------------
-I'm a Software Engineering undergraduate with a passion for full-stack development and UI/UX design. As a fast learner and tech enthusiast, I thrive on tackling new challenges and staying ahead of the curve. My creative thinking extends beyond code to digital art and graphic design, where I love to bring innovative ideas to life. Let's connect and collaborate on exciting projects!* 
+I'm a Software Engineering undergraduate with a passion for full-stack development and UI/UX design. As a fast learner and tech enthusiast, I thrive on tackling new challenges and staying ahead of the curve. My creative thinking extends beyond code to digital art and graphic design, where I love to bring innovative ideas to life. Let's connect and collaborate on exciting projects! Feel Free to contact Me* 
 
 🌍  I'm based in Colombo* 
 ✉️  You can contact me at [waddsamindika@gmail.com](mailto:waddsamindika@gmail.com)* 
